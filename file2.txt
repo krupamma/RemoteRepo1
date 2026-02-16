@@ -1,3 +1,7 @@
 This is second line
 This is file2
 this is a file
+This is second file
+This is second line
+This is file2
+This is new line
